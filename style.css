@@ -1,0 +1,24 @@
+body {
+    background-color: rgb(216, 226, 221);
+    color:rgb(44, 44, 44);
+    font-size: 16px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin: 0;
+}
+.container {
+    width: 80%;
+    max-width: 960px;
+    margin: 0 auto;
+}
+
+a:link {
+    color: rgb(4, 119, 119);
+    text-decoration: none;
+}
+a:visited {
+    color: rgb(79, 99, 99);
+}
+a:hover {
+    color: rgb(3, 151, 77);
+}
+
